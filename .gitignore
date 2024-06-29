@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+output
+client
+server
+hashtable
+test
+test.cpp
